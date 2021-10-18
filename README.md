@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-I am currently studying at KAIST (Daejeon, South Korea).
+I am currently 
+  - studying at KAIST (Daejeon, South Korea)
+  - working as research intern at KIXLAB.
 
-Currently, working as research intern at KIXLAB.
 
 <!--
 **fesiib/fesiib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
