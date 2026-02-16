@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am currently 
-  - studying Master's degree at KAIST (Daejeon, South Korea)
-  - learning & researching about HCI at KIXLAB.
+I am 
+  - a Ph.D student at KAIST (Daejeon, South Korea)
+  - learning about Human-AI Interaction at KIXLAB
 
 
 <!--
